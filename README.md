@@ -2,7 +2,7 @@
 
 Todo project developed to provide a to-do list.
 
-## developed by:
+## Developed by:
 
 Diego Luz da Silva.
 
