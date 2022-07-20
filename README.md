@@ -1,6 +1,6 @@
-# Project TODO IN REACT
+# Project TODO in react
 
-todo project developed to provide a to-do list.
+Todo project developed to provide a to-do list.
 
 ## developed by:
 
